@@ -2,7 +2,7 @@
 title: "I Stopped Using Foundation: Six Months of Observations"
 date: "2026-09-27"
 slug: "i-stopped-using-foundation-here-is-what-changed"
-image: "https://images.unsplash.com/photo-1614271398061-22024a37ce54?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1601612628452-9e99ced43524?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "Six months without foundation. What changed in my skin, my routine, my wallet, and how people responded. The honest accounting."

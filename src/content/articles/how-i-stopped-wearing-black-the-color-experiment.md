@@ -2,7 +2,7 @@
 title: "How I Stopped Wearing Black: The Year-Long Color Experiment"
 date: "2026-09-27"
 slug: "how-i-stopped-wearing-black-the-color-experiment"
-image: "https://images.unsplash.com/photo-1466728638487-23eb1bbbfc64?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "I wore black for fifteen years. I wore nothing black for one year. Here is what changed, what surprised me, and what I actually wore instead."

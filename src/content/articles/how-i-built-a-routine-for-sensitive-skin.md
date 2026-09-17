@@ -2,7 +2,7 @@
 title: "How I Built a Skincare Routine for Sensitive Skin After a Decade of Reactions"
 date: "2026-09-29"
 slug: "how-i-built-a-routine-for-sensitive-skin"
-image: "https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "Sensitive skin is not a life sentence. It is a list of ingredients to avoid and a short list of products that work. Here is what I learned after ten years."
