@@ -60,7 +60,7 @@ A few iPhones in the last decade were genuinely transformative. The rest were re
 
 A row of iPhones from different generations lined up side by side, illustrating the decade of design evolution
 
-![A lineup of several iPhone models from different years laid out on a neutral surface](https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1606&q=80)
+![A hand holding a current-generation iPhone, showing the screen in everyday use](https://images.unsplash.com/photo-1512054502232-10a0a035d672?auto=format&fit=crop&w=1600&q=80)
 
 ## What changed and what did not
 

@@ -52,7 +52,7 @@ I have spent a weekend configuring iCloud Keychain on their devices. I have set 
 
 A close-up of a hardware security key being inserted into a laptop, illustrating two-factor authentication
 
-![A YubiKey-style hardware security key plugged into a laptop next to a smartphone](https://images.unsplash.com/photo-1556745753-b2904692b3cd?auto=format&fit=crop&w=1606&q=80)
+![A smartphone displaying a security lock screen, representing passkey-based sign-in](https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80)
 
 The setup my parents have is less secure than my own. The trade-off is that it is one they will actually use. The most secure setup in the world is useless if the people using it cannot or will not.
 

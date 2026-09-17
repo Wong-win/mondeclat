@@ -37,7 +37,7 @@ The shift happened when I stopped treating cooking as a task to optimize and sta
 
 I do not have a philosophy of screen time. I have a practice of cooking, which has the side effect of reducing screen time. The mechanism is not discipline. It is that the hands are busy.
 
-![A home cook chopping vegetables on a wooden cutting board in a warm kitchen](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1600&q=80)
+![Steam rising from a covered pot on a stovetop, evoking patient home cooking](https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?auto=format&fit=crop&w=1600&q=80)
 
 ## Failure is a feature, not a bug
 

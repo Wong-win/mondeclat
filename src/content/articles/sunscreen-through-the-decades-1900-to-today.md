@@ -62,7 +62,7 @@ Mineral sunscreens are not inherently safer for human use. They are available fo
 
 **Tinted sunscreens.** One of the most significant recent developments. Tinted mineral sunscreens provide SPF plus light coverage in a single product, addressing the historical complaint that mineral sunscreens leave a white cast. The category has exploded in the last five years. Supergoop Glowscreen, EltaMD UV Physical, and Australian Gold Botanical Tinted are leading products.
 
-![A sunlit beach scene with people applying sunscreen, illustrating sun protection culture](https://images.unsplash.com/photo-1532413992378-f169ac26fff0?auto=format&fit=crop&w=1600&q=80)
+![A vintage cosmetics advertisement from the early twentieth century illustrating the historical roots of sunscreen culture](https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1600&q=80)
 
 ## What is actually true about sunscreen in 2026
 

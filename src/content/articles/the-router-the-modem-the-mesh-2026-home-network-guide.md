@@ -170,7 +170,7 @@ Wi-Fi is for mobile devices. Ethernet is for stationary devices. The combination
 
 A modern mesh Wi-Fi node placed on a shelf in a bright living room, indicating good positioning
 
-![A white mesh Wi-Fi access point on a bookshelf in a sunlit room](https://images.unsplash.com/photo-1606857521015-7f9fcf423740?auto=format&fit=crop&w=1606&q=80)
+![Ethernet cables plugged into a network switch, illustrating the wired alternative to Wi-Fi](https://images.unsplash.com/photo-1547119957-637f8679db1e?auto=format&fit=crop&w=1600&q=80)
 
 If I were setting up a home network in 2026, here is what I would buy.
 

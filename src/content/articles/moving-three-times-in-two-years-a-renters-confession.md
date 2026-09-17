@@ -38,7 +38,7 @@ The financial cost of moving is the part most people underestimate. The visible 
 
 Total estimated financial cost: roughly €14,000 across the three moves. That is more than a year of rent at the original apartment. The moves cost as much as a year of living.
 
-![Moving boxes stacked in an empty apartment ready for transport](https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1606&q=80)
+![A hand reaching for a brass door handle, capturing the threshold of a new home](https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1600&q=80)
 
 ## The emotional cost
 

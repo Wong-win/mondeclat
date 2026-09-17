@@ -96,7 +96,7 @@ This system works because:
 
 **The notes are useful.** Before contacting someone, I read the notes. The notes give me context. The contact feels less awkward because I remember what we talked about last time.
 
-![A clean Notion database interface showing a personal CRM with contact records](https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=1606&q=80)
+![A smartphone showing a contacts list, illustrating the personal CRM on a handheld device](https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=1600&q=80)
 
 ## The surprising thing about the people who matter
 

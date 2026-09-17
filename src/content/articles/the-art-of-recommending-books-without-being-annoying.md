@@ -80,7 +80,7 @@ In my close reading group, we have an informal rule. If someone recommends a boo
 
 This rule has deepened the friendships and improved the recommendations. When you know the recommendation will be read and responded to, you recommend more carefully. When you know the response will be received, you respond more honestly. The system makes both sides of the recommendation better.
 
-![A small collection of well-worn books on a wooden shelf](https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=1606&q=80)
+![A worn paperback book held open in a reader's hands, suggesting personal engagement](https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1600&q=80)
 
 ## The fifth principle: do not weaponize recommendations
 
