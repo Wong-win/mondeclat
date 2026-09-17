@@ -2,7 +2,7 @@
 title: "The Case Against Trend Cycles: Why Slow Fashion Wins"
 date: "2026-09-18"
 slug: "the-case-against-trend-cycles-why-slow-fashion-wins"
-image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "Trend cycles used to be twenty years. Then ten. Then five. The 2020s broke the cycle, and the people who built wardrobes around cycles lost more than the people who didn't."

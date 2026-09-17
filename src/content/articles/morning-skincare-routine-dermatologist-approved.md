@@ -2,7 +2,7 @@
 title: "A Morning Skincare Routine That Is Actually Dermatologist-Approved"
 date: "2026-09-16"
 slug: "morning-skincare-routine-dermatologist-approved"
-image: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1686831451910-be038fcaa48c?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "Most skincare routines are doing too much. A board-certified dermatologist walks us through the four-step morning routine that actually moves the needle."
@@ -59,7 +59,7 @@ Layering too many products and then wondering why skin is irritated. Inflammatio
 
 A simple routine done for six months will outperform an elaborate one done for two weeks. That is the boring, accurate, dermatologist-endorsed truth.
 
-![A dermatologist's desk with a curated selection of clinical skincare bottles, suggesting the simple four-step approach](https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=1600&q=80)
+![A dermatologist's desk with a curated selection of clinical skincare bottles, suggesting the simple four-step approach](https://images.unsplash.com/photo-1629732047356-30c7e14e712b?auto=format&fit=crop&w=1600&q=80)
 
 ## The conversations I have had about this routine
 

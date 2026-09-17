@@ -106,7 +106,7 @@ The transition matters. If you have been double-cleansing twice a day for years,
 
 A minimalist vanity showing only a single gentle cleanser and a bar of soap, illustrating a pared-back routine
 
-![A minimalist bathroom shelf with a single cleanser and a soft towel](https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1600&q=80)
+![A minimalist bathroom shelf with a single cleanser and a soft towel](https://images.unsplash.com/photo-1556227702-b89ac3b94ff9?auto=format&fit=crop&w=1600&q=80)
 
 The protocol:
 

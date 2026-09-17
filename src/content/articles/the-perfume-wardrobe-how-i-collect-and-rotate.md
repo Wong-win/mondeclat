@@ -2,7 +2,7 @@
 title: "The Perfume Wardrobe: How I Collect and Rotate"
 date: "2026-09-21"
 slug: "the-perfume-wardrobe-how-i-collect-and-rotate"
-image: "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "After a decade of collecting perfume badly and then well, here is the framework I use. The bottles I wear, the ones I keep, and the rules I learned from owning forty."

@@ -2,7 +2,7 @@
 title: "Sunscreen Through the Decades: 1900 to Today"
 date: "2026-09-19"
 slug: "sunscreen-through-the-decades-1900-to-today"
-image: "https://images.unsplash.com/photo-1532413992378-f169ac26fff0?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1590248452371-3459c0a04286?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "From the 1920s cocoa butter tanning culture to today's mineral and chemical UV filters. A century of how we came to understand sun exposure, and the marketing that delayed it."

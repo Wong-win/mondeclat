@@ -63,7 +63,7 @@ If you are indoors all day, a daily morning application is enough. On a flight o
 
 Wearing SPF every day is the single highest-ROI habit in skincare. It costs between 12 and 50 euros a year, takes ten seconds, and is the only thing that actually prevents the skin damage every other product is trying to treat after the fact.
 
-![A close-up of sunscreen being applied to a face, illustrating the daily application ritual](https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1600&q=80)
+![A close-up of sunscreen being applied to a face, illustrating the daily application ritual](https://images.unsplash.com/photo-1598662972299-5408ddb8a3dc?auto=format&fit=crop&w=1600&q=80)
 
 ## What I actually use day to day
 
