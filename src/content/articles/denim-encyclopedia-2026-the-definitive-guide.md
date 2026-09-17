@@ -2,7 +2,7 @@
 title: "Denim Encyclopedia 2026: The Definitive Guide"
 date: "2026-09-19"
 slug: "denim-encyclopedia-2026-the-definitive-guide"
-image: "https://images.unsplash.com/photo-1542574271-7f3b92e6c821?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1637069585336-827b298fe84a?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "Every cut, wash, weight, and detail of denim that actually matters in 2026. The jeans you should buy, the ones to skip, and how to find the pair that flatters your body."

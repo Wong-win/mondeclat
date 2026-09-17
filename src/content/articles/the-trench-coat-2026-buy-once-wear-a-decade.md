@@ -2,7 +2,7 @@
 title: "The Trench Coat: Buy Once, Wear a Decade"
 date: "2026-09-26"
 slug: "the-trench-coat-2026-buy-once-wear-a-decade"
-image: "https://images.unsplash.com/photo-1544022613-e87ca75a784a?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1777633759617-c5f05ff8e3b3?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "A good trench is the most cost-effective piece in any wardrobe. The 2026 guide to which one to buy and why the cost-per-wear math actually works."
