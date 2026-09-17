@@ -102,3 +102,69 @@ A good dinner party ends when people are still enjoying themselves, not when eve
 - **Cleaning during the party.** The dishes can wait until morning. Or, better, until the day after.
 
 The goal of hosting is not to produce a flawless meal. It is to gather people you like into a space where everyone — including you — feels welcome. Anything that does not serve that goal can be cut.
+
+![A warmly lit dinner table with wine glasses, candles, and a few plates of food being served](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1600&q=80)
+
+## The meals that actually work
+
+After a decade of hosting, the meals that have actually worked for me — meaning the meals where the host was relaxed and the guests had a good time — share a small set of characteristics that have nothing to do with cooking skill.
+
+The first is that the menu is honest about what the host can do. A three-course dinner that the host has cooked before is a better dinner than a five-course dinner that the host is attempting for the first time. The guests cannot taste the difference between "this cook is competent" and "this cook is brilliant." They can taste the difference between "this cook tried something new and it failed" and "this cook served what they know."
+
+The second is that the timing serves the conversation. A menu that requires the host to disappear into the kitchen for forty-five minutes between courses is a menu that interrupts the evening. A menu that allows the host to plate the next course while the guests are still finishing the current one — because the components are at room temperature or can be reheated in five minutes — is a menu that lets the evening flow.
+
+The third is that the food is served family-style, not plated individually. Family-style service lets people take what they want. It removes the small social stress of portion sizing. It removes the need for the host to time six plates. It removes the failure mode of one plate being cold while another is hot.
+
+The fourth is that there is always something for the people who do not drink. A dinner party where the only beverages are wine, sparkling, and digestifs excludes the people who are not drinking. A pitcher of still water, a couple of bottles of non-alcoholic beer, or a homemade shrub are small additions that matter to the guests who would otherwise feel pressured.
+
+The fifth is that the music starts before the guests arrive and continues until they leave. Music fills the silence that otherwise gets filled with the host apologizing. The playlist should be quiet enough to talk over, varied enough to avoid becoming irritating, and absent of anything with explicit lyrics or strong personal associations. Jazz, classical, ambient, and instrumental covers of familiar songs are the safe categories.
+
+## The dinner parties I have gotten wrong
+
+The dinner parties I have gotten wrong share characteristics that are the inverse of the above.
+
+The first time I hosted a dinner party, I tried to make a five-course menu that included homemade pasta, a complex main, and a soufflé for dessert. I had never made pasta. I had never made a soufflé. The pasta dough was overworked. The soufflé collapsed. I spent most of the evening in the kitchen, apologizing through a doorway.
+
+The second time I tried to plate everything individually. The timing was impossible. Some plates were cold. Some were hot. The host was exhausted.
+
+The third time I tried a menu that was almost entirely ambitious, and the centerpiece — a whole fish — came out unevenly cooked. We ate around the undercooked parts.
+
+Each of these dinners taught me the same lesson. The point of a dinner party is the gathering. The food is the context, not the content. A simple meal that lets the host sit down with the guests is a better dinner than an ambitious meal that puts the host in the kitchen.
+
+The shift that fixed my hosting was the introduction of the 48-hour timeline. The day-of is light. The day-before is heavy. The two-days-before is heavy. By the time guests arrive, ninety percent of the work is done. The host pours wine and sits down.
+
+## What I do not do anymore
+
+A list of things I tried and stopped doing.
+
+**I do not make everything from scratch.** The cheese course is bought. The bread is bought. The dessert is often bought. The savings in time and stress are worth the small premium over making it myself.
+
+**I do not cook for a wider dietary spread than my actual guests.** If everyone eats meat, I cook meat. If someone is vegetarian, I cook a vegetarian main. I do not cook separate dishes for every possible restriction that might apply.
+
+**I do not set the table the morning of.** I set it the day before, and I leave it. The morning-of effort is for the food, not the dining room.
+
+**I do not plan the playlist on the day.** The playlist is a Spotify list I have been curating for months. The night before, I glance at it and adjust for mood. The music is never improvised.
+
+**I do not apologize during the meal.** The food is what it is. The guests are not food critics. The dinner party is not a cooking exam. Apologizing draws attention to problems that might otherwise go unnoticed.
+
+## What I have learned about guests
+
+A few patterns that have emerged across the dinner parties I have hosted.
+
+The guests who bring things are the best guests. A bottle of wine, a salad, a dessert, a small gift for the host — these are gestures that the host appreciates and that signal a guest who understands the social contract.
+
+The guests who arrive exactly on time are easier to host than the guests who arrive thirty minutes early. The early arrivals need something to do while the host is finishing the prep. The on-time arrivals arrive when the host is ready.
+
+The guests who offer to help clean up are almost always welcome. The guests who do not notice the mess are usually not malicious; they are just not paying attention.
+
+The guests who stay until 11 p.m. or later are usually the ones the host most wanted to see. The guests who leave at 9:30 are usually the ones with long commutes or small children. Neither is a problem.
+
+The most memorable dinners I have hosted were not the most ambitious. They were the ones where I sat down at 8 p.m. with a glass of wine and let the conversation take over. The food was the prompt. The company was the content.
+
+## The honest summary
+
+A good dinner party is mostly about preparation. The day-of work should be forty-five minutes of assembly, reheating, and pouring. The day-before work should be six hours of cooking, chopping, and setting up. The two-days-before work should be an hour of menu planning and shopping.
+
+The meals that work are the meals the host has made before. The timing that works is the timing that does not require the host to disappear. The service that works is the service that lets people take what they want.
+
+The goal is not a flawless meal. The goal is a gathering that everyone — including the host — enjoyed. The recipe is the same as it has always been: prep-heavy, day-of-light, and plan for the conversation, not the cooking.

@@ -62,3 +62,74 @@ The most common reason people skip sunscreen is "I am not going outside." But UV
 If you are indoors all day, a daily morning application is enough. On a flight or driving long distances, reapply every two hours.
 
 Wearing SPF every day is the single highest-ROI habit in skincare. It costs between 12 and 50 euros a year, takes ten seconds, and is the only thing that actually prevents the skin damage every other product is trying to treat after the fact.
+
+![A close-up of sunscreen being applied to a face, illustrating the daily application ritual](https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1600&q=80)
+
+## What I actually use day to day
+
+The recommendations above are what I would make to anyone starting from zero. The list of what I actually use day to day is similar, with some choices that reflect specific preferences.
+
+**Daily face SPF.** La Roche-Posay Anthelios UVMune 400 SPF 50+, 50ml, around €16. The Mexoryl 400 filter is the longest UVA protection available. The texture is light enough to wear under makeup. The bottle lasts two months at daily use.
+
+**Daily body SPF.** I am honest about this: I do not apply body sunscreen every day. I apply it when I will be outside for more than twenty minutes. For those days, I use Nivea Sun Protect & Control, 200ml, around €12. The texture is light enough to apply quickly.
+
+**Reapplication.** Biore UV Aqua Rich, 50ml, around €10. The spray bottle makes reapplication easy over makeup. I keep one in my bag for outdoor days.
+
+**Mineral alternative.** Australian Gold Botanical Tinted SPF 50, 100ml, around €22. The tinted version doubles as light makeup. The mineral filter is reassuring for sensitive-skin days.
+
+**The thing I do not use.** SPF-containing foundation or BB cream. The reason is the application amount: a foundation would need to be applied at the labeled sunscreen amount (about 1.25ml for face and neck) to deliver the labeled SPF, which is more than anyone actually applies. The labeled SPF in foundation is essentially decorative.
+
+The annual cost of my SPF setup is roughly €100. The cost-per-day is around €0.27. The benefit is preventing most of the visible skin aging I would otherwise experience.
+
+## The history that explains why we are here
+
+The modern sunscreen was developed in the 1930s and 1940s by Benjamin Green and L'Oréal founder Eugène Schueller. The products were oil-based and designed to enhance tanning, not prevent burning. The first products marketed as "sunblocks" appeared in the 1950s, using zinc oxide.
+
+The cultural shift from "tan is healthy" to "sun is dangerous" took most of the twentieth century. The Slip-Slop-Slap campaign in Australia (1981) was the first major public health campaign targeting sun exposure. The Australian melanoma rates, which had been climbing, began to decline in the 1990s. Australia remains the global leader in sun protection awareness.
+
+The clinical evidence accumulated slowly. The 1993 Kligman study established the link between UV exposure and actinic keratoses. Subsequent studies established the link between UV exposure and skin cancer. The link between UV exposure and visible aging was established in the 2000s.
+
+The formulations improved in parallel. The 1970s and 1980s sunscreens were thick, white, and unpleasant. The 2000s brought chemical filters that were more elegant. The 2010s brought Asian formulations that prioritized daily wearability. The 2020s brought hybrid formulations that combine mineral and chemical filters.
+
+The current state is the best in history. The daily SPF is a lightweight product that feels like a moisturizer. The protection is broad-spectrum. The cost is low. The evidence is overwhelming.
+
+## What I have changed my mind about
+
+I have been writing about sunscreen for ten years. My positions have shifted.
+
+**I used to recommend mineral sunscreens as the default.** I now recommend based on preference. Mineral sunscreens have improved dramatically (coated zinc oxide eliminates the white cast on most skin tones). Chemical sunscreens have been reformulated to address the endocrine concerns (newer filters like Mexoryl 400 are not systemically absorbed). The default recommendation is the one you will actually use.
+
+**I used to say SPF 30 was enough.** I now recommend SPF 50 for daily use. The reason is under-application: most people apply 50 percent of the labeled amount. SPF 50 under-applied is closer to SPF 20. SPF 30 under-applied is closer to SPF 8. The math favors the higher number.
+
+**I used to dismiss tinted sunscreens.** I now use them on weekends. The tinted version eliminates a step in the morning routine. The tint is subtle enough that it works for most days.
+
+**I used to say you did not need sunscreen indoors.** I was wrong about this. UVA rays penetrate glass. The exposure during a workday by a window is meaningful. Daily morning application, even on indoor days, is the right answer.
+
+**I used to recommend reapplication every two hours.** I still do, but I am honest about my own compliance. I reapply when I am outside for more than an hour. Indoors, once in the morning is what I actually do. The recommendation is right. The personal practice is imperfect.
+
+## What to teach children
+
+A short section on the specific question of children, since the question comes up frequently in conversations I have.
+
+The evidence on childhood sun exposure is strong. The damage done in childhood and adolescence is the damage that presents as melanoma and photoaging in adulthood. The earlier the protection starts, the larger the cumulative benefit.
+
+**For babies under 6 months.** No sunscreen. Keep them out of direct sun. Use hats, clothing, and shade. The skin is too thin for topical sunscreen.
+
+**For children 6 months to 2 years.** Mineral sunscreen only. Chemical filters have not been studied in this age group. Apply liberally and reapply every two hours. Hats and clothing are still primary.
+
+**For children 2 and up.** Either mineral or chemical. The choice is about preference. The discipline is about application. Children resist sunscreen. The resistance is normal. The fix is consistent routines, not negotiation.
+
+**For adolescents.** Daily SPF 50 as part of the morning routine. The earlier this becomes a habit, the longer it persists into adulthood. The compounding effect over decades is what makes the difference.
+
+## The honest summary
+
+Sunscreen is the most effective skincare product. The evidence is the strongest in the category. The cost is the lowest. The barrier to daily use has been mostly eliminated by 2026 formulations. The reason everyone is not using it is habit, not product.
+
+The four things to do:
+
+1. Use SPF 50 daily, on face and neck, every morning, including indoor days.
+2. Apply a quarter teaspoon for the face and neck, or two finger-lengths by the recommended method.
+3. Reapply every two hours when outdoors, including over makeup.
+4. Choose based on preference — mineral, chemical, hybrid, tinted. The best sunscreen is the one you will actually use.
+
+The cost is €10 to €50 per year. The benefit is preventing most of the visible skin aging you would otherwise experience. The compounding effect over decades is the only skincare intervention that has been proven over time.

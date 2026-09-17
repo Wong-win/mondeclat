@@ -78,3 +78,79 @@ Things that look like permanent changes but are not:
 - **Decorative items that need dusting.** Glass, ceramics, and open books accumulate dust. Closed storage is the renter's friend.
 
 A small apartment designed with intention looks larger than a large apartment filled with things. The space itself does not change. The way you fill it does.
+
+![A minimalist small living room with a single sofa, plants, and warm light, demonstrating the renter-friendly design principles](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80)
+
+## The small spaces I have designed
+
+I have lived in six small apartments in five cities over the last fifteen years. The square meterage has ranged from 28 to 48. Each apartment taught me something about what works and what does not in a small space.
+
+The first was a 32-square-meter studio in Lisbon. The ceiling was high, the windows were large, and the original tenant had painted one wall bright yellow. I kept the yellow. I removed almost everything else. The apartment had a bed, a small desk, two chairs, and a kitchen counter that served as both prep surface and dining table. The space felt larger than its square meterage.
+
+The second was a 28-square-meter one-bedroom in Berlin. The ceilings were low, the windows were small, and the building was old. The apartment felt smaller than its actual size. The fix was color — I painted the walls a very pale grey (allowed by the landlord), which made the walls recede. I removed the curtains entirely, which let in more light. I mounted the TV on the wall, which freed up a surface.
+
+The third was a 40-square-meter one-bedroom in Paris. The apartment had a bedroom and a separate living room, but the rooms were narrow. The fix was furniture scale — I bought a sofa that was 160cm wide instead of 200cm. The smaller sofa gave me back 40cm of walking space. The cost was less comfortable seating. The benefit was a room that felt navigable.
+
+The fourth, fifth, and sixth apartments I have lived in more recently taught me that the principles are the same regardless of the specific space. Subtraction, vertical storage, layered light, one or two strong patterns, and removable "permanent" changes. The principles travel. The specific furniture does not.
+
+## The mistakes I have made
+
+The mistakes I have made in small-space design share a few patterns.
+
+**Buying furniture that was too large.** The sofa that was 200cm wide. The dining table that seated six. The bookshelf that was 220cm tall. Each of these pieces was a compromise that made the apartment feel smaller. The fix was always to remove the piece or replace it with a smaller version.
+
+**Buying furniture that did multiple things.** The sofa bed that was uncomfortable as both a sofa and a bed. The storage ottoman that took up more space than it stored. The convertible coffee table that did not convert. Multipurpose furniture in small spaces usually means compromised-everything furniture.
+
+**Decorating before editing.** The first impulse in a new apartment is to fill it. The right impulse is to empty it. The empty apartment reveals what the space actually needs. The filled apartment hides the mismatch between the space and the things in it.
+
+**Following design trends that did not fit.** The maximalist Pinterest look, the all-grey minimalist look, the bohemian layered look — each looks great in photos and wrong in person for most small apartments. The right look for a small apartment is one that respects the actual proportions.
+
+**Not negotiating with the landlord.** Most landlords will allow paint, removable wallpaper, and even small hardware changes if you ask. Not asking is leaving value on the table. The negotiation is part of the design.
+
+## The small-space shopping list
+
+A practical list, in case the principles above are too abstract.
+
+**One good sofa.** Two-seater if you live alone. Three-seater if you share the space. Avoid sectional sofas in small rooms — they consume more floor space than a regular sofa of similar seating capacity.
+
+**One dining table that fits the actual number of diners.** Most dining tables are sold in sizes that seat more people than the household actually contains. A 90cm round seats four comfortably. A 120cm rectangle seats four in tight quarters. Larger is unnecessary.
+
+**One bed with storage underneath.** Lift-up storage beds hold more than dressers, and they cost less. The mattress on top is the only visible part. The storage underneath is invisible.
+
+**One bookshelf that goes to the ceiling.** Tall bookshelves use vertical space and look intentional. Short bookshelves look like they were cut down. The taller version is more expensive but more useful.
+
+**One rug that anchors the seating area.** A rug that is too small makes a room feel disjointed. A rug that is too large makes the room feel smaller. The right size is roughly 30cm larger than the seating area on all sides.
+
+**One mirror on the wall opposite the largest window.** The mirror doubles the perceived light. The mirror does not need to be expensive. A second-hand frame with a custom-cut mirror works as well as a designer piece.
+
+**One piece of art that you actually like.** A small space with no art feels institutional. A small space with one piece of art feels intentional. The art does not need to be expensive. The art does need to be something you will not get tired of looking at.
+
+**Plants.** One or two plants per room, in varied sizes. The plants soften the hard edges of small-space furniture. The plants also require care, which is the trade-off.
+
+## The lighting setup
+
+The lighting setup is the difference between a small apartment that feels small and a small apartment that feels intentional.
+
+The minimum:
+
+**One ceiling fixture.** Either the existing fixture or a flush-mount replacement. The ceiling fixture is the base layer.
+
+**One table lamp.** On a side table or shelf. The table lamp is the ambient layer for evenings.
+
+**One floor lamp.** In a corner that needs light. The floor lamp is the task layer for reading or working.
+
+**One accent light.** A picture light above art, a small spotlight on a plant, an LED strip behind a bookshelf. The accent light is the layer that makes the room feel like a place.
+
+The four layers — ceiling, table, floor, accent — are what makes a room feel like a room. The single ceiling fixture, which is what most small apartments start with, is not enough. The fix is to add layers.
+
+The bulbs matter. Warm bulbs (2700K to 3000K) for living areas. Cool bulbs (3500K to 4000K) for kitchens and work areas. The color temperature should match the time of day and the activity.
+
+Dimmers are the next level of investment. Dimmer switches cost €15 each and make any fixture feel more flexible. The investment is small. The effect is large.
+
+## The honest summary
+
+Designing a small rental apartment is mostly about subtraction and constraint. The subtraction removes what does not need to be there. The constraint (rented, no permanent changes) forces creative solutions. The creative solutions are what make the apartment feel intentional.
+
+The principles above — subtraction, vertical storage, layered light, one or two strong patterns, removable permanent changes — are what I have learned from six apartments. The specific furniture changes with the space. The principles do not.
+
+The cost, in time and money, is moderate. The benefit, in daily quality of life, is large. The small apartment that is designed with intention is more livable than the large apartment that is filled with things. The space is not the constraint. The constraint is the willingness to edit.

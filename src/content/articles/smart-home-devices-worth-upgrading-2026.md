@@ -87,3 +87,63 @@ For a typical apartment or small house:
 5. **A smart lock, eventually, when the current one wears out**
 
 Everything else is optional. The smart home does not need to be smart. It needs to remove small daily frictions. The list above does that. Most of what is sold in this category does not.
+
+![A small home automation hub on a shelf surrounded by a smart speaker and a few connected devices](https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1600&q=80)
+
+## What I have tested and stopped using
+
+A few categories that I tried and removed from my home.
+
+**Smart plugs.** I bought four. The use case was turning off lamps and small appliances remotely. The reality is that I almost never turned them off remotely. I just left them on. The smart plugs added a layer of complexity (which app, which hub) without a corresponding benefit. The smart plugs are now in a drawer.
+
+**Smart bulbs in every room.** I started with a Hue starter kit. The bulbs are great. The problem is that the wall switch becomes useless — turning off the wall switch cuts power to the smart bulb, which then needs to be re-paired. The solution is to leave the wall switches on and control the bulbs from the app or voice. The solution is also annoying for guests who do not know the convention. I replaced most of the smart bulbs with smart switches.
+
+**Smart blinds.** I tried these for one window. The motor failed after six months. The replacement cost was almost as much as the original. The benefit (automated blinds) was small. The cost (€250 plus €50 for the replacement motor) was not. I went back to manual blinds.
+
+**Smart leak detectors.** I bought three after reading about water damage claims. They sit in places where leaks would be catastrophic (under the sink, behind the washing machine). They have not detected anything. I have also not had a leak. The peace of mind may be worth the €30 per detector. The practical benefit is zero.
+
+**Smart kitchen appliances.** I tried a smart kettle. The kettle connected to an app that allowed me to set the temperature remotely. The kettle was slower than a normal kettle, the app was unreliable, and the only useful feature (scheduled boil in the morning) was something I could do by filling the kettle the night before.
+
+The lesson is that most "smart" features in this category are solving problems that did not exist. The smart home industry is built on the assumption that connected is better. The assumption is wrong about 80 percent of the products.
+
+## What I would buy if I were starting from zero
+
+The list above is what I currently use. The list I would buy if I were starting from zero is similar, with one addition.
+
+**1. Smart thermostat or radiator valves.** €200 to €400. Highest ROI. Pays for itself in 12 to 18 months.
+
+**2. Smart switches in the main rooms, smart bulbs in the lamps.** €30 per switch, €15 per bulb. The combination is the right answer.
+
+**3. A video doorbell with local storage.** €150 to €250. The single device that has changed daily life the most.
+
+**4. One robot vacuum, if the math works.** €600 to €1,500. The device that has the biggest quality-of-life impact for households with pets or children.
+
+**5. A smart lock, when the current one wears out.** €200 to €400. Useful for specific situations (guests, cleaners, contractors). Not a daily-life changer.
+
+**6. Smart radiator valves for individual room control.** €60 per valve. The addition if I were starting from zero. The valves allow heating different rooms to different temperatures, which is more efficient than a single thermostat.
+
+Total cost: roughly €1,500 to €3,000 for a full setup. That is a meaningful investment. The return is the daily frictions that the devices remove.
+
+The order matters. The thermostat or radiator valves first, because the energy savings pay for the rest. The video doorbell second, because it is the highest-leverage information device. The robot vacuum third, because it is the highest-leverage chore device. The smart lock fourth, because it is the most useful for specific situations. The other categories are optional.
+
+## The mistakes to avoid
+
+A few patterns I have seen in other people's homes that look like smart home adoption but are not.
+
+**Too many hubs.** Each smart home brand wants to be the hub. The result is five apps, each controlling one or two devices, none of which talk to each other. The fix is to choose one ecosystem (HomeKit, Google Home, Alexa) and stick with it. The other ecosystems are for compatibility testing, not for daily use.
+
+**Voice control for everything.** Voice control is useful in specific situations. It is not useful for everything. The home that requires voice commands for the lights is a home that fails when the internet is down, when the voice assistant is misheard, or when a guest comes over.
+
+**Sensors that do not act.** A smart home that monitors but does not act is a smart home that creates notifications without solving problems. A motion sensor that turns on a light is useful. A motion sensor that sends a notification is noise.
+
+**Automation that surprises.** Smart home automation that triggers unexpectedly (lights turning on at midnight, thermostats changing when no one is home) is automation that needs to be reconfigured. The user should always know what the home is going to do before it does it.
+
+**Subscription dependence.** Devices that require monthly subscriptions to function are devices that become expensive over time and that stop working if the company changes its terms. Local storage and one-time purchase are the better model.
+
+## The honest summary
+
+The smart home category in 2026 has crossed a threshold. A small set of devices are quietly doing real work. The rest are still solutions to problems that do not exist.
+
+The devices worth buying are the ones that remove small daily frictions and pay for themselves. The devices not worth buying are the ones that add complexity without removing friction. The list above is what I would recommend. The list of what I would not recommend is longer.
+
+The smart home does not need to be smart. It needs to be useful. The list above is useful. Most of what is sold in this category is not.

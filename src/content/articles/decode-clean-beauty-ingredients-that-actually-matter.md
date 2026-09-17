@@ -73,3 +73,71 @@ If you cannot pronounce it, that is not a reason to avoid it. Most ingredient na
 The trick is to learn the dozen or so names worth caring about, ignore the rest, and focus on whether the product has the actives you are paying for.
 
 Clean beauty, done honestly, is about formulation literacy. Done badly, it is just marketing with better photography.
+
+![A close-up of skincare ingredients arranged in glass dropper bottles on a vanity](https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1600&q=80)
+
+## What "clean beauty" actually means, by brand
+
+The category is unregulated, which means every brand gets to define it. The definitions vary, and the variation is instructive.
+
+**Sephora Clean.** The cleanest at the gates, the loosest in practice. Bans roughly 50 ingredients including sulfates (SLS, SLES), parabens, phthalates, formaldehyde releasers, and some essential oils. The list excludes ingredients that have never been in mainstream use, which makes the ban look more impressive than it is.
+
+**Credo Clean.** The strictest of the mainstream definitions. Bans roughly 2,700 ingredients, including all of Sephora Clean plus a long list of petroleum derivatives, silicones, and fragrance components. The strictness has costs — formulations are sometimes less elegant and more expensive than conventional equivalents.
+
+**EU cosmetic regulations.** Not a brand standard, but the relevant regulatory framework for any product sold in Europe. Bans roughly 1,600 ingredients, with a particular focus on endocrine disruptors and known carcinogens. Many of these are banned in the EU but legal in the US, which is the most concrete reason to prefer EU-formulated products when possible.
+
+**"Free from" lists.** The most common marketing device. "Paraben-free," "sulfate-free," "fragrance-free." The list is rarely complete, and the marketing rarely explains what replaced the excluded ingredient. Parabens are often replaced with phenoxyethanol, which is also a preservative and which has its own concerns at high concentrations.
+
+The pattern across these definitions is that "clean beauty" is a gradient, not a category. A product that meets Sephora Clean is probably fine. A product that meets Credo Clean is probably better-formulated. A product that is "fragrance-free" with parfum in the ingredient list is doing the marketing version, not the formulation version.
+
+## The reading order
+
+When I look at a new product, the order in which I read the ingredient list:
+
+**First five ingredients.** Roughly 80 percent of the product. The active ingredients should be here if they are at meaningful concentrations. Anything past ingredient five is present at less than one percent and is mostly there for formulation reasons (texture, preservation, color).
+
+**Active ingredients.** Search for the actives you are paying for. If you bought a vitamin C serum, look for "ascorbic acid" or "sodium ascorbyl phosphate" in the first five. If you bought a retinol product, look for "retinol," "retinal," or "retinyl palmitate" somewhere in the first ten.
+
+**Preservative system.** Every water-containing product needs a preservative. The most common are phenoxyethanol, ethylhexylglycerin, parabens, and various formaldehyde releasers. The preservative system is what determines shelf life and is one of the most common causes of irritation.
+
+**Fragrance.** "Parfum," "fragrance," and any individual essential oil. These are at the bottom of the list because they are present at low concentrations, but they are the most common cause of contact dermatitis and the easiest to remove.
+
+**Everything else.** If the product has passed the four checks above, the rest of the list is mostly texture, color, and pH adjustment. Worry less about these.
+
+## The ingredients I have changed my mind about
+
+I have been writing about skincare for ten years, and my positions on a few ingredients have shifted. The honest list:
+
+**I used to recommend parabens as fine. I still do.** The 2004 breast cancer study was retracted. Subsequent studies have not reproduced the concern. Parabens are effective preservatives at low concentrations and have a better safety profile than most replacements.
+
+**I used to flag mineral oil. I no longer do.** It is one of the safest moisturizing ingredients available. It is used in neonatal ICUs. The "natural" alternatives (shea butter, coconut oil) are more likely to cause reactions in most users.
+
+**I used to be neutral on essential oils. I am now cautious.** Essential oils are concentrated plant extracts that are routine skin sensitizers. Lavender oil, citrus oils, tea tree, and peppermint are the most common culprits. If a product contains them at meaningful concentrations, sensitive skin should pass.
+
+**I used to recommend mineral sunscreens as safer. The evidence is more nuanced.** Mineral sunscreens (zinc oxide, titanium dioxide) are equally effective for daily use. They avoid the coral reef concerns of chemical filters. The endocrine disruption signal for chemical filters is small but real. Mineral is the conservative choice, particularly for pregnant users and children.
+
+**I used to dismiss "clean beauty" as marketing. I now think it points at something real.** The marketing is mostly noise. The underlying instinct — that ingredient transparency matters and that some ingredients are riskier than others — is correct.
+
+## What I actually buy
+
+A practical list, in case the framework above is too abstract.
+
+**Cleansers.** CeraVe Hydrating Cleanser, La Roche-Posay Toleriane, Bioderma Sensibio Micellar Water. All fragrance-free, all formulated for sensitive skin, all under €15.
+
+**Moisturizers.** CeraVe Moisturizing Cream, La Roche-Posay Cicaplast, Eucerin Original Healing Cream. All under €20. I rotate between them based on what my skin needs.
+
+**Sunscreen.** La Roche-Posay Anthelios UVMune 400 (chemical, elegant, daily) and Australian Gold Botanical (mineral, for when I want mineral).
+
+**Active ingredients.** The Ordinary line for budget actives (glycolic acid, niacinamide, hyaluronic acid). Prescription tretinoin for retinol.
+
+**Treatments.** Vaseline as an occlusive. Aquaphor for the same purpose. The €5 versions of what expensive brands charge €50 for.
+
+The total cost is roughly €200 a year. The result is skin that has been cared for, not skin that has been treated.
+
+## The honest summary
+
+"Clean beauty" is a marketing category with a real underlying principle. The principle is that ingredient transparency matters, that some ingredients are riskier than others, and that consumers should be able to make informed choices. The marketing is mostly noise. The underlying instinct is correct.
+
+The framework above is how I read an ingredient list. The list of what I buy is what the framework produces in practice. The two together — the framework and the practice — are what "clean beauty" should mean when it is done honestly.
+
+If you take one thing from this article, take this: read the ingredient list, focus on the first five ingredients, and look for the actives you are paying for. Everything else is noise.
