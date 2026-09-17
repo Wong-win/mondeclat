@@ -23,31 +23,29 @@ const latest=all.filter(a=>!usedAfterCategories.has(a.data.slug)).slice(0,6);
 const fmt=(d:string)=>new Date(d).toLocaleDateString("en-US",{year:"numeric",month:"short",day:"numeric"});
 ---
 <Layout>
-  <!-- 1. Hero: 1 lead + 3 secondary -->
+  <!-- 1. Hero: full-bleed lead image + 3 mini row -->
   <section class="hero-section">
-    <div class="hero-grid">
-      {hero[0] && (
-        <a href={`/${hero[0].data.slug}/`} class="hero-lead">
-          {hero[0].data.image&&<img src={hero[0].data.image} alt={hero[0].data.title} loading="eager" fetchpriority="high"/>}
-          <div class="hero-lead-overlay">
-            <span class="hero-kicker">{hero[0].data.categories[0]||"Featured"}</span>
-            <h2>{hero[0].data.title}</h2>
-            <p>{fmt(hero[0].data.date)}</p>
+    {hero[0] && (
+      <a href={`/${hero[0].data.slug}/`} class="hero-lead-wide">
+        {hero[0].data.image && <img src={hero[0].data.image} alt={hero[0].data.title} loading="eager" fetchpriority="high"/>}
+        <div class="hero-lead-wide-overlay">
+          <span class="hero-kicker">{hero[0].data.categories[0] || "Featured"}</span>
+          <h2>{hero[0].data.title}</h2>
+          <p class="hero-lead-meta">{fmt(hero[0].data.date)}</p>
+        </div>
+      </a>
+    )}
+    <div class="hero-row">
+      {hero.slice(1,4).map(a => (
+        <a href={`/${a.data.slug}/`} class="hero-mini">
+          {a.data.image && <img src={a.data.image} alt={a.data.title} loading="lazy"/>}
+          <div class="hero-mini-overlay">
+            <span class="hero-kicker">{a.data.categories[0] || "Story"}</span>
+            <h3>{a.data.title}</h3>
+            <p class="hero-mini-date">{fmt(a.data.date)}</p>
           </div>
         </a>
-      )}
-      <div class="hero-stack">
-        {hero.slice(1,4).map(a => (
-          <a href={`/${a.data.slug}/`} class="hero-mini">
-            {a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}
-            <div class="hero-mini-overlay">
-              <span class="hero-kicker">{a.data.categories[0]||"Story"}</span>
-              <h3>{a.data.title}</h3>
-              <p>{fmt(a.data.date)}</p>
-            </div>
-          </a>
-        ))}
-      </div>
+      ))}
     </div>
   </section>
 
