@@ -75,7 +75,7 @@ The blazer is a charcoal flannel Boglioli, second-hand on Vestiaire for €220. 
 
 The loafers are black Berluti wholecuts, second-hand, €600. They were the most I had ever paid for shoes. They are also the most comfortable dress shoes I own, partly because the previous owner had them broken in for me, and partly because wholecuts have no seams to rub.
 
-![A tailor's hands working on the hem of a wool coat, illustrating the craft that gives classic pieces longevity](https://images.unsplash.com/photo-1485230895905-ec40b1b3cd7a?auto=format&fit=crop&w=1600&q=80)
+![A tailor's hands working on the hem of a wool coat, illustrating the craft that gives classic pieces longevity](https://images.unsplash.com/photo-1485120750507-a3bf477acd63?auto=format&fit=crop&w=1600&q=80)
 
 The silk slip dress is from Cos, €89, bought in 2021 on a whim and worn more than I expected. I wear it under knitwear in winter, alone in summer, and to the kind of restaurant that does not have a dress code but where you want to feel slightly dressed up.
 

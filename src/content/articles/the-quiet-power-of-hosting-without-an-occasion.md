@@ -2,7 +2,7 @@
 title: "The Quiet Power of Hosting People Without an Occasion"
 date: "2026-09-28"
 slug: "the-quiet-power-of-hosting-without-an-occasion"
-image: "https://images.unsplash.com/photo-1604153393216-bd7b65c1fa1b?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1481931098730-318b6f776db0?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]
 categorySlugs: ["lifestyle"]
 excerpt: "I stopped waiting for occasions to host. I started inviting people over on random Tuesdays. The dinners became the relationships."

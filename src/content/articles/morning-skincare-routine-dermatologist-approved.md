@@ -59,7 +59,7 @@ Layering too many products and then wondering why skin is irritated. Inflammatio
 
 A simple routine done for six months will outperform an elaborate one done for two weeks. That is the boring, accurate, dermatologist-endorsed truth.
 
-![A dermatologist's desk with a curated selection of clinical skincare bottles, suggesting the simple four-step approach](https://images.unsplash.com/photo-1596755094484-c28b4d2c8a3c?auto=format&fit=crop&w=1600&q=80)
+![A dermatologist's desk with a curated selection of clinical skincare bottles, suggesting the simple four-step approach](https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=1600&q=80)
 
 ## The conversations I have had about this routine
 

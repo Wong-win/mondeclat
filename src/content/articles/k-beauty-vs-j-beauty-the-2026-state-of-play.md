@@ -127,7 +127,7 @@ The best routine uses the strengths of both. The best routine has 5-8 steps. The
 
 The traditions are not mutually exclusive. The traditions are not a religion. The traditions are a set of practices that work for many people. The practices can be mixed. The practices should be mixed. The mixing is what makes the routine yours.
 
-![A side-by-side comparison of Korean and Japanese skincare products on a shelf](https://images.unsplash.com/photo-1608248543803-ba4ee587024b?auto=format&fit=crop&w=1600&q=80)
+![A side-by-side comparison of Korean and Japanese skincare products on a shelf](https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?auto=format&fit=crop&w=1600&q=80)
 
 ## What I would tell someone starting with Asian skincare
 

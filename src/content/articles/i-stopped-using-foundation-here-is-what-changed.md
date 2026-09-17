@@ -126,4 +126,4 @@ The recommendation, if you want to try this: do it for a month. The month is eno
 
 The experiment is not for everyone. The experiment works for someone who is curious about the daily foundation habit. The experiment does not work for someone who loves the ritual. The ritual is fine. The ritual is just not my daily reality anymore.
 
-![A close-up of natural skin with a healthy glow and no visible foundation](https://images.unsplash.com/photo-1599305020194-67b2eaa0b94e?auto=format&fit=crop&w=1600&q=80)
+![A close-up of natural skin with a healthy glow and no visible foundation](https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=1600&q=80)

@@ -70,7 +70,7 @@ Routines do not work because they make you a different person in the morning. Th
 
 That is the actual goal: a morning that does not require willpower to start. The day you reach that point, the routine is yours — not borrowed from someone else's Instagram.
 
-![Sunlight streaming through a window onto a coffee mug and an open notebook, illustrating the kind of morning ritual that compounds](https://images.unsplash.com/photo-1505739773434-c61e1f06bc7f?auto=format&fit=crop&w=1600&q=80)
+![Sunlight streaming through a window onto a coffee mug and an open notebook, illustrating the kind of morning ritual that compounds](https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=1600&q=80)
 
 ## What the research actually says about habit formation
 

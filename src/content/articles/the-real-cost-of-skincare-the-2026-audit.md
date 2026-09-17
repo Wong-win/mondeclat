@@ -122,4 +122,4 @@ The audit framework is universal. The framework is: track what you spend, track 
 
 The change is the value. The value is what the work is for. The work is the audit. The audit is the first step.
 
-![A simple daily skincare routine laid out on a clean bathroom shelf](https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&w=1600&q=80)
+![A simple daily skincare routine laid out on a clean bathroom shelf](https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&w=1600&q=80)

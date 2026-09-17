@@ -2,7 +2,7 @@
 title: "How to Build a Capsule Wardrobe That Actually Works"
 date: "2026-09-13"
 slug: "how-to-build-capsule-wardrobe-that-actually-works"
-image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "Capsule wardrobes fail when they are treated as a project. The ones that work are assembled slowly, around a real life, with ruthless editing."

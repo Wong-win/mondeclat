@@ -2,7 +2,7 @@
 title: "Why I Quit Buying Designer After the Vinted Pivot"
 date: "2026-09-24"
 slug: "why-i-quit-buying-designer-the-2026-pivot"
-image: "https://images.unsplash.com/photo-1558769132-c9fa89d128fa?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "The resale market collapsed the case for buying designer new. Here is how the math shifted and what I do with the difference."
