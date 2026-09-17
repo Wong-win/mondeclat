@@ -2,7 +2,7 @@
 title: "The Secondhand Vintage Shopping Map for 2026: Where to Go in Five Cities"
 date: "2026-09-28"
 slug: "the-secondhand-vintage-shopping-map-2026"
-image: "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1520006403909-838d6b92c22e?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "Five cities, twenty shops, the specific addresses and what to look for at each. A working map for the secondhand wardrobe builder."

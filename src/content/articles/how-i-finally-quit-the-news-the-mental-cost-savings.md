@@ -2,7 +2,7 @@
 title: "How I Finally Quit the News: The Mental Cost Savings"
 date: "2026-09-27"
 slug: "how-i-finally-quit-the-news-the-mental-cost-savings"
-image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]
 categorySlugs: ["lifestyle"]
 excerpt: "Six years of news consumption, then nothing for two years. The cognitive change, the social cost, and what I do instead."

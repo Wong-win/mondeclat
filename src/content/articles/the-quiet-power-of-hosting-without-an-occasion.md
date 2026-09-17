@@ -134,4 +134,4 @@ The food will not be perfect. The conversation will not always flow. The guests 
 
 The quiet power of random hosting is the regularity. The regularity is what makes it work. The work is what produces the friendships. The friendships are the goal. The goal is what the practice is for.
 
-![A simple dinner set up for close friends at a small table, warm lighting](https://images.unsplash.com/photo-1485120750507-a3bf477acd63?auto=format&fit=crop&w=1600&q=80)
+![A simple dinner set up for close friends at a small table, warm lighting](https://images.unsplash.com/photo-1562050344-f7ad946cee35?auto=format&fit=crop&w=1600&q=80)

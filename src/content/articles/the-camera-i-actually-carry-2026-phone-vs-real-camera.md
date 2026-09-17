@@ -2,7 +2,7 @@
 title: "The Camera I Actually Carry in 2026: Phone vs Real Camera, Settled"
 date: "2026-09-29"
 slug: "the-camera-i-actually-carry-2026-phone-vs-real-camera"
-image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1500763702684-af70eba9a9f1?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]
 categorySlugs: ["technology"]
 excerpt: "After ten years of debating phone vs camera, here is what I actually carry, what I use each for, and why the answer is not what either camp wants to hear."

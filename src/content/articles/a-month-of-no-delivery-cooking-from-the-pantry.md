@@ -2,7 +2,7 @@
 title: "A Month of No Delivery: What I Learned Cooking Only from My Pantry"
 date: "2026-09-29"
 slug: "a-month-of-no-delivery-cooking-from-the-pantry"
-image: "https://images.unsplash.com/photo-1485120750507-a3bf477acd63?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1582831413948-c5514270acdb?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]
 categorySlugs: ["lifestyle"]
 excerpt: "No takeout, no delivery, no fresh grocery runs. Just the pantry, the fridge, and what I could make. The experiment changed how I cook."

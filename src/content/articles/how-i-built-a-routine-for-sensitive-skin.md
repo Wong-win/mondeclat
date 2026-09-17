@@ -2,7 +2,7 @@
 title: "How I Built a Skincare Routine for Sensitive Skin After a Decade of Reactions"
 date: "2026-09-29"
 slug: "how-i-built-a-routine-for-sensitive-skin"
-image: "https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1660646463659-df77c1580723?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "Sensitive skin is not a life sentence. It is a list of ingredients to avoid and a short list of products that work. Here is what I learned after ten years."
@@ -134,4 +134,4 @@ The recommendation: keep it simple. The simple routine is what works. The simple
 
 The decade of trial and error is what produced this routine. The routine is the answer. The answer is available to anyone willing to do the work. The discipline is what produces results.
 
-![A close-up of a gentle, fragrance-free moisturizer on a clean surface](https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&w=1600&q=80)
+![A close-up of a gentle, fragrance-free moisturizer on a clean surface](https://images.unsplash.com/photo-1648203276014-20f97ba1f817?auto=format&fit=crop&w=1600&q=80)

@@ -2,7 +2,7 @@
 title: "K-Beauty vs J-Beauty: The 2026 State of Play"
 date: "2026-09-26"
 slug: "k-beauty-vs-j-beauty-the-2026-state-of-play"
-image: "https://images.unsplash.com/photo-1601612628452-9e99ced43524?auto=format&fit=crop&w=1600&q=80"
+image: "https://images.unsplash.com/photo-1655568561429-2da330af5442?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "Two Asian beauty traditions, two different philosophies. After a decade of using both, here is the current state of play and what each does best."
@@ -127,7 +127,7 @@ The best routine uses the strengths of both. The best routine has 5-8 steps. The
 
 The traditions are not mutually exclusive. The traditions are not a religion. The traditions are a set of practices that work for many people. The practices can be mixed. The practices should be mixed. The mixing is what makes the routine yours.
 
-![A side-by-side comparison of Korean and Japanese skincare products on a shelf](https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?auto=format&fit=crop&w=1600&q=80)
+![A side-by-side comparison of Korean and Japanese skincare products on a shelf](https://images.unsplash.com/photo-1629380108599-ea06489d66f5?auto=format&fit=crop&w=1600&q=80)
 
 ## What I would tell someone starting with Asian skincare
 
