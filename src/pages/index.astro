@@ -1,0 +1,82 @@
+---
+import Layout from "../layouts/Layout.astro"; import { getCollection } from "astro:content";
+// Pinned + featured articles sort to the top, then by date descending
+const all=(await getCollection("articles")).sort((a,b)=>{
+  const ap=(a.data.pinned?2:0)+(a.data.featured?1:0);
+  const bp=(b.data.pinned?2:0)+(b.data.featured?1:0);
+  if(ap!==bp)return bp-ap;
+  return +new Date(b.data.date)-+new Date(a.data.date);
+});
+// Dedup: hero articles excluded from category sections
+const used=new Set<string>();
+const hero=all.slice(0,4);hero.forEach(a=>used.add(a.data.slug));
+// Four category sections: each shows articles with that categorySlug, excluding hero ones
+const filter=(slug:string)=>all.filter(a=>a.data.categorySlugs.includes(slug)&&!used.has(a.data.slug));
+const fashionAll=filter("fashion");
+const beautyAll=filter("beauty");
+const lifestyleAll=filter("lifestyle");
+const technologyAll=filter("technology");
+// Remaining articles (not in hero, not yet shown in any category section) for the Latest grid
+const usedAfterCategories=new Set<string>(used);
+[...fashionAll,...beautyAll,...lifestyleAll,...technologyAll].slice(0,12).forEach(a=>usedAfterCategories.add(a.data.slug));
+const latest=all.filter(a=>!usedAfterCategories.has(a.data.slug)).slice(0,6);
+const fmt=(d:string)=>new Date(d).toLocaleDateString("en-US",{year:"numeric",month:"short",day:"numeric"});
+---
+<Layout>
+  <!-- 1. Hero: 1 lead + 3 secondary -->
+  <section class="hero-section">
+    <div class="hero-grid">
+      {hero[0] && (
+        <a href={`/${hero[0].data.slug}/`} class="hero-lead">
+          {hero[0].data.image&&<img src={hero[0].data.image} alt={hero[0].data.title} loading="eager" fetchpriority="high"/>}
+          <div class="hero-lead-overlay">
+            <span class="hero-kicker">{hero[0].data.categories[0]||"Featured"}</span>
+            <h2>{hero[0].data.title}</h2>
+            <p>{fmt(hero[0].data.date)}</p>
+          </div>
+        </a>
+      )}
+      <div class="hero-stack">
+        {hero.slice(1,4).map(a => (
+          <a href={`/${a.data.slug}/`} class="hero-mini">
+            {a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}
+            <div class="hero-mini-overlay">
+              <span class="hero-kicker">{a.data.categories[0]||"Story"}</span>
+              <h3>{a.data.title}</h3>
+              <p>{fmt(a.data.date)}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. Category sections — Fashion, Beauty, Lifestyle, Technology -->
+  <section class="cat-section">
+    <h2><a href="/category/fashion/">Fashion</a></h2>
+    <div class="fw-grid">{fashionAll.slice(0,4).map(a=><a href={`/${a.data.slug}/`} class="fw-card">{a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}<div class="fw-card-overlay"><h3>{a.data.title}</h3><span>{fmt(a.data.date)}</span></div></a>)}</div>
+  </section>
+
+  <section class="cat-section">
+    <h2><a href="/category/beauty/">Beauty</a></h2>
+    <div class="fw-grid">{beautyAll.slice(0,4).map(a=><a href={`/${a.data.slug}/`} class="fw-card">{a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}<div class="fw-card-overlay"><h3>{a.data.title}</h3><span>{fmt(a.data.date)}</span></div></a>)}</div>
+  </section>
+
+  <section class="cat-section">
+    <h2><a href="/category/lifestyle/">Lifestyle</a></h2>
+    <div class="fw-grid">{lifestyleAll.slice(0,4).map(a=><a href={`/${a.data.slug}/`} class="fw-card">{a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}<div class="fw-card-overlay"><h3>{a.data.title}</h3><span>{fmt(a.data.date)}</span></div></a>)}</div>
+  </section>
+
+  <section class="cat-section">
+    <h2><a href="/category/technology/">Technology</a></h2>
+    <div class="fw-grid">{technologyAll.slice(0,4).map(a=><a href={`/${a.data.slug}/`} class="fw-card">{a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}<div class="fw-card-overlay"><h3>{a.data.title}</h3><span>{fmt(a.data.date)}</span></div></a>)}</div>
+  </section>
+
+  <!-- 3. Latest stories -->
+  {latest.length>0 && (
+    <section class="ln-section">
+      <h2>Latest Stories</h2>
+      <div class="ln-grid">{latest.map(a=><article class="ln-card">{a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}<div class="ln-card-body"><span class="ln-card-kicker">{a.data.categories[0]||"Story"}</span><h4><a href={`/${a.data.slug}/`}>{a.data.title}</a></h4><p>{a.data.excerpt||""}</p><span class="ln-card-date">{fmt(a.data.date)}</span></div></article>)}</div>
+    </section>
+  )}
+</Layout>

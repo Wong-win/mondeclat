@@ -1,0 +1,6 @@
+---
+const path=Astro.url.pathname;
+const nav=[{l:"Home",h:"/"},{l:"Fashion",h:"/category/fashion/"},{l:"Beauty",h:"/category/beauty/"},{l:"Lifestyle",h:"/category/lifestyle/"},{l:"Technology",h:"/category/technology/"}];
+---
+<header class="site-header"><div class="header-inner"><a href="/" class="site-logo">Monde<span>clat</span></a><button class="menu-toggle" id="mt" aria-label="Menu"><svg width="22" height="18" viewBox="0 0 22 18" fill="none"><path d="M1 1h20M1 9h20M1 17h20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button><nav class="site-nav" id="sn">{nav.map(i=><a href={i.h} class={path===i.h?"active":""}>{i.l}</a>)}<form class="header-search" action="/search/" method="GET"><input type="text" name="q" placeholder="Search..."/><button type="submit"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></form></nav></div></header>
+<script>document.getElementById("mt")?.addEventListener("click",()=>{document.getElementById("sn")?.classList.toggle("open")});</script>

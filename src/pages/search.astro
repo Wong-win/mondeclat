@@ -1,0 +1,10 @@
+---
+import Layout from "../layouts/Layout.astro"; import { getCollection } from "astro:content";
+const q=(Astro.url.searchParams.get("q")||"").toLowerCase().trim();let r:any[]=[];const fmt=(d:string)=>new Date(d).toLocaleDateString("en-US",{year:"numeric",month:"short",day:"numeric"});
+if(q){const a=await getCollection("articles");r=a.filter(p=>`${p.data.title} ${p.data.excerpt||""}`.toLowerCase().includes(q)).sort((a,b)=>+new Date(b.data.date)-+new Date(a.data.date))}
+---
+<Layout title={`Search: ${q}`}>
+  <div class="cat-header"><h1>Search</h1><p>{q?`${r.length} results for "${q}"`:"Enter a search term"}</p></div>
+  {q&&r.length>0&&<div class="fw-grid">{r.map(a=><a href={`/${a.data.slug}/`} class="fw-card">{a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}<div class="fw-card-overlay"><h3>{a.data.title}</h3><span>{fmt(a.data.date)}</span></div></a>)}</div>}
+  {q&&r.length===0&&<p class="search-empty">No results found.</p>}
+</Layout>

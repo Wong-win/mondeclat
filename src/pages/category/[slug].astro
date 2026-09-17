@@ -1,0 +1,10 @@
+---
+import { getCollection } from "astro:content"; import Layout from "../../layouts/Layout.astro";
+export async function getStaticPaths(){const a=await getCollection("articles");const s=new Set<string>();for(const p of a)for(const c of p.data.categorySlugs)s.add(c);return Array.from(s).map(s=>({params:{slug:s}}))}
+const{slug}=Astro.params;const arts=(await getCollection("articles")).filter(a=>a.data.categorySlugs.includes(slug!)).sort((a,b)=>+new Date(b.data.date)-+new Date(a.data.date));
+const n:Record<string,string>={fashion:"Fashion",beauty:"Beauty",lifestyle:"Lifestyle",technology:"Technology"};const fmt=(d:string)=>new Date(d).toLocaleDateString("en-US",{year:"numeric",month:"short",day:"numeric"});
+---
+<Layout title={n[slug!]||slug!}>
+  <div class="cat-header"><div class="breadcrumb"><a href="/">Home</a> &raquo; <span>{n[slug!]||slug!}</span></div><h1>{n[slug!]||slug!}</h1><p>{arts.length} articles</p></div>
+  <div class="fw-grid">{arts.map(a=><a href={`/${a.data.slug}/`} class="fw-card">{a.data.image&&<img src={a.data.image} alt={a.data.title} loading="lazy"/>}<div class="fw-card-overlay"><h3>{a.data.title}</h3><span>{fmt(a.data.date)}</span></div></a>)}</div>
+</Layout>
