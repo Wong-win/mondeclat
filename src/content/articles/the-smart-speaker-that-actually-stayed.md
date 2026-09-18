@@ -1,6 +1,6 @@
 ---
 title: "The Smart Speaker That Actually Stayed"
-date: "2026-09-18"
+date: "2026-08-13"
 slug: "the-smart-speaker-that-actually-stayed"
 image: "https://images.unsplash.com/photo-1558089687-f282ffcbc126?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

@@ -1,6 +1,6 @@
 ---
 title: "Lipstick as the Final Wardrobe Staple"
-date: "2026-09-18"
+date: "2026-06-03"
 slug: "lipstick-as-the-final-wardrobe-staple"
 image: "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

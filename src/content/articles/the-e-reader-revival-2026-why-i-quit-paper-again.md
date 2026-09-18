@@ -1,6 +1,6 @@
 ---
 title: "The E-Reader Revival of 2026: Why I Quit Paper Books Again"
-date: "2026-09-27"
+date: "2026-07-21"
 slug: "the-e-reader-revival-2026-why-i-quit-paper-again"
 image: "https://images.unsplash.com/photo-1594498257673-9f36b767286c?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

@@ -1,6 +1,6 @@
 ---
 title: "My Hair Loss Story: What Helped and What Did Not"
-date: "2026-09-18"
+date: "2026-06-15"
 slug: "my-hair-loss-story-what-helped-and-what-did-not"
 image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

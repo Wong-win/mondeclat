@@ -1,6 +1,6 @@
 ---
 title: "I Stopped Using Foundation: Six Months of Observations"
-date: "2026-09-27"
+date: "2026-05-30"
 slug: "i-stopped-using-foundation-here-is-what-changed"
 image: "https://images.unsplash.com/photo-1581182653084-cfa6b0946a1e?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

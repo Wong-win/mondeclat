@@ -1,6 +1,6 @@
 ---
 title: "The Quiet Power of Hosting People Without an Occasion"
-date: "2026-09-28"
+date: "2026-08-01"
 slug: "the-quiet-power-of-hosting-without-an-occasion"
 image: "https://images.unsplash.com/photo-1481931098730-318b6f776db0?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

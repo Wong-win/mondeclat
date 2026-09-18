@@ -1,6 +1,6 @@
 ---
 title: "Hosting a Dinner Party Without Losing Your Mind"
-date: "2026-09-11"
+date: "2026-05-05"
 slug: "hosting-dinner-party-without-losing-your-mind"
 image: "https://images.unsplash.com/photo-1608306680538-0b948be63c9b?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

@@ -1,6 +1,6 @@
 ---
 title: "How My Skin Changed at 35 — The Routine I Built"
-date: "2026-09-17"
+date: "2026-05-25"
 slug: "how-my-skin-changed-at-35-the-routine-i-built"
 image: "https://images.unsplash.com/photo-1556228994-efb7c88fa0f9?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

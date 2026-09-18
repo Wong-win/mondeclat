@@ -1,6 +1,6 @@
 ---
 title: "Fragrance Layering: The Art of Making Your Scent Last"
-date: "2026-09-12"
+date: "2026-05-03"
 slug: "fragrance-layering-art-make-your-scent-last"
 image: "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

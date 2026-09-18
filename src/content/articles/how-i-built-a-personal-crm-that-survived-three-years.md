@@ -1,6 +1,6 @@
 ---
 title: "How I Built a Personal CRM That Survived Three Years"
-date: "2026-09-17"
+date: "2026-05-07"
 slug: "how-i-built-a-personal-crm-that-survived-three-years"
 image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

@@ -1,6 +1,6 @@
 ---
 title: "The 2026 Guide to Thrifting Furniture: How I Furnished Three Homes on a Budget"
-date: "2026-09-25"
+date: "2026-07-01"
 slug: "the-2026-guide-to-thrifted-furniture-the-edit"
 image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

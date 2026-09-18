@@ -1,6 +1,6 @@
 ---
 title: "A Decade of iPhones: What I Actually Keep"
-date: "2026-09-20"
+date: "2026-04-21"
 slug: "a-decade-of-iphones-what-i-actually-keep"
 image: "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

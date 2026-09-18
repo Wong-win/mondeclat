@@ -1,6 +1,6 @@
 ---
 title: "The Backup Strategy I Wish I Had Sooner"
-date: "2026-09-18"
+date: "2026-07-12"
 slug: "the-backup-strategy-i-wish-i-had-sooner"
 image: "https://images.unsplash.com/photo-1601737487795-dab272f52420?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

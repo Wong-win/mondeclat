@@ -1,6 +1,6 @@
 ---
 title: "The 2026 Guide to SPF: Everything You Actually Need"
-date: "2026-09-03"
+date: "2026-06-28"
 slug: "the-2026-guide-to-spf-everything-you-need"
 image: "https://images.unsplash.com/photo-1532413992378-f169ac26fff0?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

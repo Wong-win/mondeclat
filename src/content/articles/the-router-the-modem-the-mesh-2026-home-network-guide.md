@@ -1,6 +1,6 @@
 ---
 title: "The Router, the Modem, the Mesh: A 2026 Home Network Guide"
-date: "2026-09-19"
+date: "2026-08-06"
 slug: "the-router-the-modem-the-mesh-2026-home-network-guide"
 image: "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

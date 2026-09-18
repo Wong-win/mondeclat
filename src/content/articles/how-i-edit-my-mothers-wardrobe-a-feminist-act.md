@@ -1,6 +1,6 @@
 ---
 title: "How I Edit My Mother's Wardrobe: A Feminist Act"
-date: "2026-09-20"
+date: "2026-05-12"
 slug: "how-i-edit-my-mothers-wardrobe-a-feminist-act"
 image: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

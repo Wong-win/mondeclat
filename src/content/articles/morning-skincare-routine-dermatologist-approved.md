@@ -1,6 +1,6 @@
 ---
 title: "A Morning Skincare Routine That Is Actually Dermatologist-Approved"
-date: "2026-09-16"
+date: "2026-06-10"
 slug: "morning-skincare-routine-dermatologist-approved"
 image: "https://images.unsplash.com/photo-1686831451910-be038fcaa48c?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

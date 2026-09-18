@@ -1,6 +1,6 @@
 ---
 title: "How I Stopped Wearing Black: The Year-Long Color Experiment"
-date: "2026-09-27"
+date: "2026-05-21"
 slug: "how-i-stopped-wearing-black-the-color-experiment"
 image: "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

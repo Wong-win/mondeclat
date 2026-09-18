@@ -1,6 +1,6 @@
 ---
 title: "The Cashmere Sweater Ladder: The 2026 Buying Guide"
-date: "2026-09-18"
+date: "2026-07-19"
 slug: "the-cashmere-sweater-ladder-the-2026-buying-guide"
 image: "https://images.unsplash.com/photo-1603906650843-b58e94d9df4d?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

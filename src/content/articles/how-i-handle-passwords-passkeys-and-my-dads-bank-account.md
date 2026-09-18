@@ -1,6 +1,6 @@
 ---
 title: "How I Handle Passwords, Passkeys, and My Dad's Bank Account"
-date: "2026-09-21"
+date: "2026-05-16"
 slug: "how-i-handle-passwords-passkeys-and-my-dads-bank-account"
 image: "https://images.unsplash.com/photo-1556745753-b2904692b3cd?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

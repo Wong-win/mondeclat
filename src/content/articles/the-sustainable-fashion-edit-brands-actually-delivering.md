@@ -1,6 +1,6 @@
 ---
 title: "The Sustainable Fashion Edit: Brands That Are Actually Delivering"
-date: "2026-09-04"
+date: "2026-08-17"
 slug: "the-sustainable-fashion-edit-brands-actually-delivering"
 image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

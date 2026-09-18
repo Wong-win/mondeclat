@@ -1,6 +1,6 @@
 ---
 title: "The Perfume Wardrobe: How I Collect and Rotate"
-date: "2026-09-21"
+date: "2026-07-30"
 slug: "the-perfume-wardrobe-how-i-collect-and-rotate"
 image: "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

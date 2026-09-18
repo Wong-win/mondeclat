@@ -1,6 +1,6 @@
 ---
 title: "10 Timeless Pieces Worth Investing In for 2026"
-date: "2026-09-17"
+date: "2026-04-19"
 slug: "10-timeless-pieces-worth-investing-2026"
 image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

@@ -1,6 +1,6 @@
 ---
 title: "Morning Rituals That Actually Stick: Behind the Science"
-date: "2026-09-15"
+date: "2026-06-08"
 slug: "morning-rituals-that-actually-stick-behind-the-science"
 image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

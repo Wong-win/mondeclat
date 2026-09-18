@@ -1,6 +1,6 @@
 ---
 title: "The Eye Cream Question: Do You Actually Need One?"
-date: "2026-09-18"
+date: "2026-07-26"
 slug: "the-eye-cream-question-do-you-actually-need-one"
 image: "https://images.unsplash.com/photo-1608068811588-3a67006b7489?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

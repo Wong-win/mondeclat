@@ -1,6 +1,6 @@
 ---
 title: "Why I Started a Cookbook Library Instead of Buying"
-date: "2026-09-26"
+date: "2026-09-09"
 slug: "why-i-started-a-cookbook-library-instead-of-buying"
 image: "https://images.unsplash.com/photo-1602722053020-af31042989d5?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

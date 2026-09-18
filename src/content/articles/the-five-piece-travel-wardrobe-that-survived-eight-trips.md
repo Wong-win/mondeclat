@@ -1,6 +1,6 @@
 ---
 title: "The Five-Piece Travel Wardrobe That Survived Eight Trips"
-date: "2026-09-25"
+date: "2026-07-28"
 slug: "the-five-piece-travel-wardrobe-that-survived-eight-trips"
 image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

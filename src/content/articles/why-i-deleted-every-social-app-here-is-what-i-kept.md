@@ -1,6 +1,6 @@
 ---
 title: "Why I Deleted Every Social App: What I Kept, What I Replaced It With"
-date: "2026-09-28"
+date: "2026-09-02"
 slug: "why-i-deleted-every-social-app-here-is-what-i-kept"
 image: "https://images.unsplash.com/photo-1596558450268-9c27524ba856?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

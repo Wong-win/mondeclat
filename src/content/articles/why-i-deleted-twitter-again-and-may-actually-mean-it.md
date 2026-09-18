@@ -1,6 +1,6 @@
 ---
 title: "Why I Deleted Twitter Again (And May Actually Mean It)"
-date: "2026-09-19"
+date: "2026-09-04"
 slug: "why-i-deleted-twitter-again-and-may-actually-mean-it"
 image: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

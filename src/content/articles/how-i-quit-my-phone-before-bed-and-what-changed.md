@@ -1,6 +1,6 @@
 ---
 title: "How I Quit My Phone Before Bed and What Changed"
-date: "2026-09-18"
+date: "2026-05-18"
 slug: "how-i-quit-my-phone-before-bed-and-what-changed"
 image: "https://images.unsplash.com/photo-1557767382-97b28f5488e7?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

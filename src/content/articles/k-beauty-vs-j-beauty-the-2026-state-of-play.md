@@ -1,6 +1,6 @@
 ---
 title: "K-Beauty vs J-Beauty: The 2026 State of Play"
-date: "2026-09-26"
+date: "2026-06-01"
 slug: "k-beauty-vs-j-beauty-the-2026-state-of-play"
 image: "https://images.unsplash.com/photo-1655568561429-2da330af5442?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

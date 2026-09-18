@@ -1,6 +1,6 @@
 ---
 title: "Why I Started Wearing the Same Outfit on Repeat"
-date: "2026-09-18"
+date: "2026-09-13"
 slug: "why-i-started-wearing-the-same-outfit-on-repeat"
 image: "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

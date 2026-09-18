@@ -1,6 +1,6 @@
 ---
 title: "Wearable Tech: How to Track Your Health Without Burning Out"
-date: "2026-08-28"
+date: "2026-08-26"
 slug: "wearable-tech-tracking-health-without-burnout"
 image: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

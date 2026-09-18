@@ -1,6 +1,6 @@
 ---
 title: "Smart Home Devices That Are Worth Upgrading in 2026"
-date: "2026-09-10"
+date: "2026-06-22"
 slug: "smart-home-devices-worth-upgrading-2026"
 image: "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

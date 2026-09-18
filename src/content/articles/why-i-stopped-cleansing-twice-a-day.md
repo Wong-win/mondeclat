@@ -1,6 +1,6 @@
 ---
 title: "Why I Stopped Cleansing Twice a Day"
-date: "2026-09-20"
+date: "2026-09-16"
 slug: "why-i-stopped-cleansing-twice-a-day"
 image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

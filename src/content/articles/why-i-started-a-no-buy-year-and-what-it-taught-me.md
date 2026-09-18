@@ -1,6 +1,6 @@
 ---
 title: "Why I Started a No-Buy Year and What It Taught Me"
-date: "2026-09-18"
+date: "2026-09-11"
 slug: "why-i-started-a-no-buy-year-and-what-it-taught-me"
 image: "https://images.unsplash.com/photo-1642543348781-ed9c6d67ed20?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

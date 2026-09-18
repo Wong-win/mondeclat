@@ -1,6 +1,6 @@
 ---
 title: "The Secondhand Luxury Handbook for 2026"
-date: "2026-09-21"
+date: "2026-08-08"
 slug: "the-secondhand-luxury-handbook-2026"
 image: "https://images.unsplash.com/photo-1559563458-527698bf5295?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

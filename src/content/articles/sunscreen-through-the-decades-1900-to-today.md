@@ -1,6 +1,6 @@
 ---
 title: "Sunscreen Through the Decades: 1900 to Today"
-date: "2026-09-19"
+date: "2026-06-24"
 slug: "sunscreen-through-the-decades-1900-to-today"
 image: "https://images.unsplash.com/photo-1590248452371-3459c0a04286?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

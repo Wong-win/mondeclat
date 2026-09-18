@@ -1,6 +1,6 @@
 ---
 title: "The 2026 Mac vs PC Question After a Decade of Switching"
-date: "2026-09-25"
+date: "2026-07-03"
 slug: "the-2026-mac-vs-pc-question-after-a-decade"
 image: "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

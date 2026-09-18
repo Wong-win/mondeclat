@@ -1,6 +1,6 @@
 ---
 title: "How I Built a Skincare Routine for Sensitive Skin After a Decade of Reactions"
-date: "2026-09-29"
+date: "2026-05-09"
 slug: "how-i-built-a-routine-for-sensitive-skin"
 image: "https://images.unsplash.com/photo-1660646463659-df77c1580723?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

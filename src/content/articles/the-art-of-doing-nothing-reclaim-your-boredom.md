@@ -1,6 +1,6 @@
 ---
 title: "The Art of Doing Nothing: How to Reclaim Your Boredom"
-date: "2026-08-30"
+date: "2026-07-07"
 slug: "the-art-of-doing-nothing-reclaim-your-boredom"
 image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

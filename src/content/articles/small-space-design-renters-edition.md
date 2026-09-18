@@ -1,6 +1,6 @@
 ---
 title: "Small-Space Design: The Renter's Edition"
-date: "2026-09-06"
+date: "2026-06-19"
 slug: "small-space-design-renters-edition"
 image: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

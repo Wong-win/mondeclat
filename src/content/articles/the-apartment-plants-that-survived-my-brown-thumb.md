@@ -1,6 +1,6 @@
 ---
 title: "The Apartment Plants That Survived My Brown Thumb"
-date: "2026-09-18"
+date: "2026-07-05"
 slug: "the-apartment-plants-that-survived-my-brown-thumb"
 image: "https://images.unsplash.com/photo-1736181627607-9e89c392b14d?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

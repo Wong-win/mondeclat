@@ -1,6 +1,6 @@
 ---
 title: "The Real Cost of Your Skincare Routine: The 2026 Audit"
-date: "2026-09-25"
+date: "2026-08-04"
 slug: "the-real-cost-of-skincare-the-2026-audit"
 image: "https://images.unsplash.com/photo-1607602132700-068258431c6c?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

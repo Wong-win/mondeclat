@@ -1,6 +1,6 @@
 ---
 title: "The Evening Skincare Routine That Actually Matters"
-date: "2026-09-28"
+date: "2026-07-23"
 slug: "the-evening-skincare-routine-that-actually-matters"
 image: "https://images.unsplash.com/photo-1670201203208-055d6d79db4a?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

@@ -1,6 +1,6 @@
 ---
 title: "The Case Against Trend Cycles: Why Slow Fashion Wins"
-date: "2026-09-18"
+date: "2026-07-16"
 slug: "the-case-against-trend-cycles-why-slow-fashion-wins"
 image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

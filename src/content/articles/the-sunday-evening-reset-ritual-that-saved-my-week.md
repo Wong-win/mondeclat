@@ -1,6 +1,6 @@
 ---
 title: "The Sunday Evening Reset Ritual That Saved My Week"
-date: "2026-09-18"
+date: "2026-08-15"
 slug: "the-sunday-evening-reset-ritual-that-saved-my-week"
 image: "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

@@ -1,6 +1,6 @@
 ---
 title: "The Truth About Retinol: Everything I Wish I Knew"
-date: "2026-09-18"
+date: "2026-08-22"
 slug: "the-truth-about-retinol-everything-i-wish-i-knew"
 image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

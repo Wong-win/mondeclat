@@ -1,6 +1,6 @@
 ---
 title: "The 10-Minute Morning Kitchen Reset"
-date: "2026-09-18"
+date: "2026-06-26"
 slug: "the-10-minute-morning-kitchen-reset"
 image: "https://images.unsplash.com/photo-1556911073-52527ac43761?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

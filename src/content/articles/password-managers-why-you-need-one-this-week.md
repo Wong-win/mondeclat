@@ -1,6 +1,6 @@
 ---
 title: "Password Managers: Why You Need One This Week"
-date: "2026-09-05"
+date: "2026-06-17"
 slug: "password-managers-why-you-need-one-this-week"
 image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

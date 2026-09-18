@@ -1,6 +1,6 @@
 ---
 title: "The Workhorse Tote: The Bag I Actually Carry Every Day"
-date: "2026-09-18"
+date: "2026-08-24"
 slug: "the-workhorse-tote-the-bag-i-actually-carry-every-day"
 image: "https://images.unsplash.com/photo-1637759292654-a12cb2be085e?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

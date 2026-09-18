@@ -1,6 +1,6 @@
 ---
 title: "The Trench Coat: Buy Once, Wear a Decade"
-date: "2026-09-26"
+date: "2026-08-20"
 slug: "the-trench-coat-2026-buy-once-wear-a-decade"
 image: "https://images.unsplash.com/photo-1777633759617-c5f05ff8e3b3?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

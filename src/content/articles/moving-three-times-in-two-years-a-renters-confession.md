@@ -1,6 +1,6 @@
 ---
 title: "Moving Three Times in Two Years: A Renter's Confession"
-date: "2026-09-21"
+date: "2026-06-12"
 slug: "moving-three-times-in-two-years-a-renters-confession"
 image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

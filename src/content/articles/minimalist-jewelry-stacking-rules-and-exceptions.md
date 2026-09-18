@@ -1,6 +1,6 @@
 ---
 title: "Minimalist Jewelry Stacking: The Rules and the Exceptions"
-date: "2026-09-09"
+date: "2026-06-06"
 slug: "minimalist-jewelry-stacking-rules-and-exceptions"
 image: "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

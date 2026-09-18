@@ -1,6 +1,6 @@
 ---
 title: "The Camera I Actually Carry in 2026: Phone vs Real Camera, Settled"
-date: "2026-09-29"
+date: "2026-07-14"
 slug: "the-camera-i-actually-carry-2026-phone-vs-real-camera"
 image: "https://images.unsplash.com/photo-1500763702684-af70eba9a9f1?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]

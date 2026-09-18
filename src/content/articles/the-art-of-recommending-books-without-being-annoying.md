@@ -1,6 +1,6 @@
 ---
 title: "The Art of Recommending Books Without Being Annoying"
-date: "2026-09-20"
+date: "2026-07-10"
 slug: "the-art-of-recommending-books-without-being-annoying"
 image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

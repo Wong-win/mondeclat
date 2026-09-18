@@ -1,6 +1,6 @@
 ---
 title: "Decoding Clean Beauty: The Ingredients That Actually Matter"
-date: "2026-09-08"
+date: "2026-04-28"
 slug: "decode-clean-beauty-ingredients-that-actually-matter"
 image: "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1600&q=80"
 categories: ["Beauty"]

@@ -1,6 +1,6 @@
 ---
 title: "Why I Quit Buying Designer After the Vinted Pivot"
-date: "2026-09-24"
+date: "2026-09-07"
 slug: "why-i-quit-buying-designer-the-2026-pivot"
 image: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=1600&q=80"
 categories: ["Fashion"]

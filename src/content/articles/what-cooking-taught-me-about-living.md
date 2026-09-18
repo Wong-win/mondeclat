@@ -1,6 +1,6 @@
 ---
 title: "What Cooking Taught Me About Living"
-date: "2026-09-17"
+date: "2026-08-29"
 slug: "what-cooking-taught-me-about-living"
 image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1600&q=80"
 categories: ["Lifestyle"]

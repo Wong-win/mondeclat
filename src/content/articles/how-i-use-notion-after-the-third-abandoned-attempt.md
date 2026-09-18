@@ -1,6 +1,6 @@
 ---
 title: "How I Use Notion After Three Abandoned Attempts: The System That Finally Stuck"
-date: "2026-09-26"
+date: "2026-05-23"
 slug: "how-i-use-notion-after-the-third-abandoned-attempt"
 image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1600&q=80"
 categories: ["Technology"]
