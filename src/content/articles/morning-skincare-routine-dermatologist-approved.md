@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1686831451910-be038fcaa48c?auto=format
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "Most skincare routines are doing too much. A board-certified dermatologist walks us through the four-step morning routine that actually moves the needle."
-featured: true
 ---
 
 The average morning skincare routine, as documented on the internet, involves between nine and fourteen steps. The average morning skincare routine recommended by dermatologists involves three. The difference is not a marketing trick. It is a fundamental disagreement about what skin needs and when.

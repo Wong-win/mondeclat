@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fi
 categories: ["Lifestyle"]
 categorySlugs: ["lifestyle"]
 excerpt: "I started cooking because I was broke. I kept cooking because it taught me things nothing else did. What a decade of daily dinners has taught me about attention, time, and being present."
-featured: true
 ---
 
 I started cooking because I was broke. I was twenty-three, living on a salary that barely covered rent, and the realization that a single plate of pasta in a restaurant cost what a kilogram of dried pasta cost in the shop was the financial shock that changed my life. I bought a secondhand Le Creuset pot, a wooden spoon, a copy of "How to Cook Everything" by Mark Bittman, and started.

@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1556228994-efb7c88fa0f9?auto=format&fi
 categories: ["Beauty"]
 categorySlugs: ["beauty"]
 excerpt: "I had the same skin for thirty years and then it changed completely. What I tried, what worked, what was a waste of money, and the routine that finally clicked."
-featured: true
 ---
 
 I had the same skin for thirty years. Combination, slightly oily in the T-zone, clear except for the occasional breakout around my period, prone to a few clogged pores on my chin. I used whatever cleanser was on sale and a basic moisturizer. I did not think about my skin. My skin did not think about me.

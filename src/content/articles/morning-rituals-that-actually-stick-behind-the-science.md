@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format
 categories: ["Lifestyle"]
 categorySlugs: ["lifestyle"]
 excerpt: "Most morning routines fail because they are copied from someone else's life. The routines that work are short, simple, and built around a single anchor habit."
-featured: true
 ---
 
 Every few years, a new morning routine goes viral. It usually belongs to a CEO, an athlete, or a monk, and it almost always involves waking up at 4:30 a.m. to do something extraordinary. The viral post is followed by a wave of well-meaning attempts, which are followed, after a week or two, by a return to whatever was happening before.

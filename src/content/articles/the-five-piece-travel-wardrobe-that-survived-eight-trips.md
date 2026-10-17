@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "Eight trips, two seasons, one carry-on. The five-piece capsule I built to stop overpacking and started dressing better on the road."
-featured: true
 ---
 
 I am writing this from a hotel room in Lisbon. The bag I brought is the same bag I brought to Reykjavik in November. The five pieces I packed are the same five pieces I packed for Stockholm in March. The system was not designed in advance. It emerged after eight trips of trial and error.

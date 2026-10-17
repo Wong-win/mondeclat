@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format
 categories: ["Technology"]
 categorySlugs: ["technology"]
 excerpt: "Three years, four iterations, and the specific Notion setup I have used to keep in touch with everyone I want to keep in touch with. What worked, what broke, and the surprising thing about the people who matter."
-featured: true
 ---
 
 I have a personal CRM. It is a Notion database with 247 entries. It contains the names, contact information, last contact date, and notes for every person I want to keep in touch with. It has survived three years, four iterations, and a brief period when I was convinced I would abandon the whole project.

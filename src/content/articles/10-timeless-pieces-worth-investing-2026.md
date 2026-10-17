@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "Trends come and go, but a small core of well-made pieces will outlast every fashion cycle. Here is the quiet wardrobe we keep returning to."
-featured: true
 ---
 
 There is a particular kind of fatigue that sets in after a few seasons of fast fashion — the closet is full and yet there is nothing to wear. The fix is rarely more clothes. It is fewer, better ones.

@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format
 categories: ["Technology"]
 categorySlugs: ["technology"]
 excerpt: "Most AI productivity tools promise to save hours and deliver a small productivity tax. After testing dozens, here are the ones that actually move the needle."
-featured: true
 ---
 
 The 2024 wave of AI productivity tools was mostly underwhelming. The 2025 wave got better. The 2026 wave, after a year of model refinement and workflow integration, has produced a small set of tools that genuinely save time for working professionals.

@@ -6,7 +6,6 @@ image: "https://images.unsplash.com/photo-1485518882345-15568b007407?auto=format
 categories: ["Fashion"]
 categorySlugs: ["fashion"]
 excerpt: "Six years of corporate dressing distilled into a working wardrobe. What stayed, what got donated, and the pieces I would buy again at three times the price."
-featured: true
 ---
 
 There is a particular kind of quiet embarrassment that comes from looking at the work selfies you took in 2019 and realizing you cannot believe anyone took you seriously. I keep a folder of those photos, and I look at them sometimes the way you look at your parents' wedding album — affectionately, with distance, grateful for the memories but absolutely certain you would not repeat the choices.
