@@ -84,7 +84,7 @@ The four moves (including the first long-term apartment) have taught me what to 
 
 **Have a "first night" bag.** The first night in the new apartment, I do not unpack. I have a bag with sheets, towels, toiletries, a change of clothes, and a phone charger. The bag lets me sleep in the new apartment without the pressure of unpacking. The unpacking happens over the next week.
 
-**Tell the people who need to know.** The change of address is a list — bank, employer,邮局, subscriptions, doctors, friends. I keep the list in a note and update it before each move. The list has reduced the number of "your address is wrong" issues to zero.
+**Tell the people who need to know.** The change of address is a list — bank, employer, post office, subscriptions, doctors, friends. I keep the list in a note and update it before each move. The list has reduced the number of "your address is wrong" issues to zero.
 
 ## How to avoid needing to move
 
